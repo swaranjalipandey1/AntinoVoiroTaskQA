@@ -1,0 +1,23 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nehapatel1287"
+  },
+  "author": "neha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "cypress": "^13.13.0"
+  }
+}

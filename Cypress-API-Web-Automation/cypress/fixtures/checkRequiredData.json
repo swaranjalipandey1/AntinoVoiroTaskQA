@@ -1,0 +1,14 @@
+{
+    "reports": [
+      {
+        "name": "Check Required Field Report",
+        "description": "This is the checkRequiredField test report",
+        "date": "2024-07-01"
+      }
+    ],
+    "login": {
+      "username": "Antino",
+      "password": "Antino@2024"
+    }
+  }
+  

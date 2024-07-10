@@ -1,0 +1,25 @@
+{
+    "reports": [
+      {
+        "name": "Test Report 1",
+        "description": "This is the first test report",
+        "date": "2024-07-01"
+      },
+      {
+        "name": "Test Report 2",
+        "description": "This is the second test report",
+        "date": "2024-07-02"
+      },
+      {
+        "name": "Test Report 3",
+        "description": "This is the third test report",
+        "date": "2024-07-03"
+      }
+    ],
+    "login": {
+      "username": "Antino",
+      "password": "Antino@2024"
+    },
+    "reportName":"hello"
+  }
+  
