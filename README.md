@@ -49,7 +49,7 @@ cd Cypress-API-Web-Automation
 **Configuration**
 Configuration settings for Cypress are in the cypress.json file. You can modify this file to change base URL, viewport settings, and other options
 {
-  "baseUrl": "https://example.com](https://demo.voiro.com/",
+  "baseUrl": "https://demo.voiro.com/",
 }
 
 **Running Tests**
